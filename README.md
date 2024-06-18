@@ -1,6 +1,6 @@
 # metabolic-json-modelling
 
-- A streamlit application for metabolic json modelling, a interface to the BIGG modelling database.
+- A streamlit application for metabolic json modelling, analyzing BIGG modelling database json.
 - There was no metabolic json modelling so i coded this to enable the large metabolic searches.
 - Analyze any large metabolic JSON and fetch any interactions, metabolites, GPR rules and Gene Protein Interactions. 
 ```
