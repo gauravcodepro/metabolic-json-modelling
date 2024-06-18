@@ -39,7 +39,7 @@ if uploadjson is not None and inputid:
     genes = readjson["genes"]
     ids = readjson["id"]
     compartments = readjson["compartments"]
-    searchid = [i for i in uploadjson["metabolites"] if i["id"] == inputid]
+    searchid = [i for i in readjson["metabolites"] if i["id"] == inputid]
     st.write("The observed id and the associated metabolites and the compartment are:")
     st.write(searchid)
 if uploadjson is not None and inputcompartments:
