@@ -10,7 +10,7 @@ stream run application.py
 ```
   
 
-<img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
+<img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400 width = 300>
 <img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
 <img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
 <img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
