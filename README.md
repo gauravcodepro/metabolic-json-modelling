@@ -9,6 +9,7 @@ git clone https://github.com/gauravcodepro/metabolic-json-modelling.git
 conda install streamlit
 stream run application.py
 ```
+![](https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic-sample-views/metabolic1.png)
 
 <img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
 <img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
