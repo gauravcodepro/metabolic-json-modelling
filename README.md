@@ -10,13 +10,9 @@ conda install streamlit
 stream run application.py
 ```
 ![](https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic-sample-views/metabolic1.png)
-
-<img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
-<img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
-<img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
-<img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
-<img src = "https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic1.png" height = 400>
-
+![](https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic-sample-views/metabolic2.png)
+![](https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic-sample-views/metabolic3.png)
+![](https://github.com/gauravcodepro/metabolic-json-modelling/blob/main/metabolic-sample-views/metabolic4.png)
 
 Gaurav \
 Academic Staff Member \
