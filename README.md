@@ -1,4 +1,4 @@
-# metabolic-json-modelling
+# streamlit-metabolic-json-modelling
 
 - A streamlit application for metabolic json modelling, analyzing BIGG modelling database json.
 - BIGG database for metabolic reactions is located at [BIGG metabolic database](http://bigg.ucsd.edu/)
